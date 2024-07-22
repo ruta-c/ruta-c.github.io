@@ -19,9 +19,13 @@
 
 This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and the development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.
 
-[Aruodas-Final-Front.pdf](https://github.com/user-attachments/files/16338417/Aruodas-Final-Front.pdf)
+![Aruodas-Final-1](https://github.com/user-attachments/assets/6958a840-fe25-4c47-a27b-825f3fc56c1f)
+![Aruodas-Final-2](https://github.com/user-attachments/assets/8efe6994-042b-4bda-b033-5b5509353e4f)
+![Aruodas-Final-3](https://github.com/user-attachments/assets/d8f1bc84-92e5-470a-b769-4347fae1eb0d)
+![Aruodas-Final-4](https://github.com/user-attachments/assets/6a04f34b-b869-458c-9178-7693c615c48e)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### 
+Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
