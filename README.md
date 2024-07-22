@@ -19,7 +19,7 @@
 
 This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and the development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.
 
-/assets/Aruodas-Final.pdf
+/assets/Aruodas-Final-Front.pdf
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
