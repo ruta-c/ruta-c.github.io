@@ -4,7 +4,8 @@
 
 ## Education
 - Data Analytics Mentee | Women Go Tech (_October 2023_)								       		
-- M.S., Medicine | The Lithuanian University of Health Sciences (_June 2019_):  
+- M.S., Medicine | The Lithuanian University of Health Sciences (_June 2019_):
+     
   (_Medical curriculum incorporated courses in statistics, informatics, and research methodology, these courses provided with the expertise to use IBM SPSS and Microsoft Excel efficiently_)  	 			        		
 
 ## Licenses & certifications
@@ -22,7 +23,8 @@ This project entails the extraction of data from real estate advertisements on t
 
 ![Data Analysis](/assets/Aruodas-Final-1.png)
 [Data Analysis Preview](/assets/Aruodas-Final.pdf)  
-[The model performance and practical implementation](https://price-predictor-hdcz.onrender.com) (_Because of free tier limitations, takes time to load_)  
+[The model performance and practical implementation](https://price-predictor-hdcz.onrender.com)  
+(_Because of free tier limitations, takes time to load_)  
 
 
 ### 
