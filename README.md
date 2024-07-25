@@ -9,12 +9,12 @@
   _Medical curriculum incorporated courses in statistics, informatics, and research methodology, these courses provided with the expertise to use IBM SPSS and Microsoft Excel efficiently_  	 			        		
 
 ## Licenses & certifications
-- Learn Python 3 Course at ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/6c152bd262967f8c941c9707ed636bda) (_December 2022_)
-- Learn SQL Course at ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/042a4e5884e3eb6ea1f2a12be6abb851) (_April 2023_)
-- Analyze Data with SQL Skill Path at ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/5cafb2d937090210d7df3652) (_May 2023_)
-- Learn Git & GitHub Course at ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/a8ab218d5950c29861635cc0bf12fd13) (_June 2023_)
-- Handling Missing Data Course ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/e5d179605242c2cd60f29f6d366638ba) (_August 2023_)
-- Data Scientist: Analytics Career Path at ![Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/7dec503730a448c8b22bb251ada403f3) (_August 2023_)
+- Learn Python 3 Course at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/6c152bd262967f8c941c9707ed636bda) (_December 2022_)
+- Learn SQL Course at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/042a4e5884e3eb6ea1f2a12be6abb851) (_April 2023_)
+- Analyze Data with SQL Skill Path at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/5cafb2d937090210d7df3652) (_May 2023_)
+- Learn Git & GitHub Course at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/a8ab218d5950c29861635cc0bf12fd13) (_June 2023_)
+- Handling Missing Data Course [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/e5d179605242c2cd60f29f6d366638ba) (_August 2023_)
+- Data Scientist: Analytics Career Path at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/7dec503730a448c8b22bb251ada403f3) (_August 2023_)
 
 ## Projects
 ### Aruodas Real Estate Price Prediction ML Model
