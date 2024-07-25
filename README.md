@@ -36,7 +36,6 @@ This initial project aims to fetch weather observation data from the Lithuanian 
 [Data Analysis Preview]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
 
 
-
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
