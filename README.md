@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Power BI, Tableau, MS Excel
 
 ## Education
-- Data Analytics Mentee | &nbsp; Mentorship Program Women Go Tech (_October 2023_)								       		
+- Data Analytics Mentee | Mentorship Program Women Go Tech (_October 2023_)								       		
 - Master of Medicine    | Lithuanian University of Health Sciences &nbsp; (_June 2019_)
      
   _Medical curriculum incorporated courses in statistics, informatics, and research methodology, these courses provided with the expertise to use IBM SPSS and Microsoft Excel efficiently_  	 			        		
