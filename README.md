@@ -21,19 +21,21 @@
 
 This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and the development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.
 
-![Data Analysis](/assets/Aruodas-Final-1.png)
+![Data Analysis](![image](https://github.com/user-attachments/assets/0ae67e77-7e39-4aec-8812-f86d38d67cc4))
 [Data Analysis Preview](/assets/Aruodas-Final.pdf)  
 [The model performance and practical implementation](https://price-predictor-hdcz.onrender.com)  
 (_Because of free tier limitations, takes time to load_)  
 
 
-### 
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Whether the weather: analysis of the Last 8 seasons in Lithuania 
+[Can be found here]([https://github.com/ruta-c/Meteo-Weather-Data])
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This initial project aims to fetch weather observation data from the Lithuanian Hydrometeorological Service API, create a data analysis dashboard, and evaluate some seasonal weather proverbs.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Data Analysis ](/assets/Aruodas-Final-1.png)
+[Data Analysis Preview]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
