@@ -32,7 +32,7 @@ This project entails the extraction of data from real estate advertisements on t
 
 This initial project aims to fetch weather observation data from the Lithuanian Hydrometeorological Service API, create a data analysis dashboard, and evaluate some seasonal weather proverbs.
 
-![Data Analysis ](![Data Analysis](/assets/Weather.png)
+![Data Analysis](/assets/Weather.png)
 [Data Analysis]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
 
 
