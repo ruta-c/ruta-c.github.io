@@ -9,11 +9,11 @@
   _Medical curriculum incorporated courses in statistics, informatics, and research methodology, these courses provided with the expertise to use IBM SPSS and Microsoft Excel efficiently_  	 			        		
 
 ## Licenses & certifications
-- Learn Python 3 Course at Codecademy (_December 2022_)
-- Learn SQL Course at Codecademy (_April 2023_)
-- Analyze Data with SQL Skill Path at Codecademy (_May 2023_)
-- Learn Git & GitHub Course at Codecademy (_June 2023_)
-- Data Scientist: Analytics Career Path at Codecademy (_August 2023_)
+- Learn Python 3 Course at Codecademy.com (_December 2022_)
+- Learn SQL Course at Codecademy.com (_April 2023_)
+- Analyze Data with SQL Skill Path at Codecademy.com (_May 2023_)
+- Learn Git & GitHub Course at Codecademy.com (_June 2023_)
+- Data Scientist: Analytics Career Path at Codecademy.com (_August 2023_)
 
 ## Projects
 ### Aruodas Real Estate Price Prediction ML Model
