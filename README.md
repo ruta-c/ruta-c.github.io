@@ -7,7 +7,6 @@
 - Master of Medicine    | Lithuanian University of Health Sciences &nbsp; (_June 2019_)
      
   _Medical curriculum incorporated courses in statistics, informatics, and research methodology, these courses provided with the expertise to use IBM SPSS and Microsoft Excel efficiently_  	 			        		
-
 ## Licenses & certifications
 - Learn Python 3 Course at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/6c152bd262967f8c941c9707ed636bda) (_December 2022_)
 - Learn SQL Course at [Codecademy](https://www.codecademy.com/profiles/course8152620494/certificates/042a4e5884e3eb6ea1f2a12be6abb851) (_April 2023_)
@@ -37,12 +36,11 @@ This initial project aims to fetch weather observation data from the Lithuanian 
 [Data Analysis]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## About Me:
+- I have always been passionate about solving problems and finding the easiest ways to do so.
+- Even though I loved and excelled in mathematics and related subjects like physics and chemistry, I chose a career in medicine, believing it to be full of logic.
+- Studying medicine was not difficult for me, as I quickly learned by efficiently making connections. When I couldn't, I created methods that made sense to me.
+- During various research projects, I found joy in making predictions, performing calculations, and observing the outcomes, whether surprising or not.
+- Although I later realized that medicine was not the best fit for me, I am grateful for the lessons it taught me: to be meticulous, to act quickly in stressful situations, to work in a team, and to deal with all kinds of people with kindness and patience.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
