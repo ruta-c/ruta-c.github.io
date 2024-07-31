@@ -18,14 +18,14 @@
 ## Projects
 ### Aruodas Real Estate Price Prediction ML Model
 This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and the development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.
-![Data Analysis](/assets/Aruodas-Final-1.png)
 [Project can be found here]([https://github.com/ruta-c/Aruodas-Real-Estate-Price-Prediction-ML-Model])
 [Data Analysis Preview](/assets/Aruodas-Final.pdf)  
 [The model performance and practical implementation](https://price-predictor-hdcz.onrender.com)  
 (_Because of free tier limitations, takes time to load_)  
+![Data Analysis](/assets/Aruodas-Final-1.png)
 
 ### Whether the weather: analysis of the Last 8 seasons in Lithuania 
 This initial project aims to fetch weather observation data from the Lithuanian Hydrometeorological Service API, create a data analysis dashboard, and evaluate some seasonal weather proverbs.
-![Data Analysis](/assets/Weather.png)
 [Project can be found here]([https://github.com/ruta-c/Meteo-Weather-Data])
 [Data Analysis]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
+![Data Analysis](/assets/Weather.png)
