@@ -18,7 +18,7 @@ _Medical curriculum incorporated courses in statistics, informatics, and researc
 
 ## Projects
 ### Aruodas Real Estate Price Prediction ML Model
-This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and the development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.  
+This project entails the extraction of data from real estate advertisements on the web page aruodas.lt, followed by data preparation and development of a machine learning model for price prediction. The primary objective of this endeavor is exclusively educational, aimed at fostering a deeper understanding of data extraction, preparation, and predictive modeling within the context of real estate pricing.  
 [Project can be found here]([https://github.com/ruta-c/Aruodas-Real-Estate-Price-Prediction-ML-Model])  
 [Data Analysis Preview](/assets/Aruodas-Final.pdf)  
 [The model performance and practical implementation](https://price-predictor-hdcz.onrender.com) (_Because of free tier limitations, takes time to load_)  
