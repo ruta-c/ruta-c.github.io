@@ -28,4 +28,12 @@ This project entails the extraction of data from real estate advertisements on t
 This initial project aims to fetch weather observation data from the Lithuanian Hydrometeorological Service API, create a data analysis dashboard, and evaluate some seasonal weather proverbs.  
 [Project can be found here]([https://github.com/ruta-c/Meteo-Weather-Data])  
 [Data Analysis]([https://public.tableau.com/app/profile/ruta.ceidaite/viz/TheLast8SeasonsinLithuania/TheLast8SeasonsinLithuania])  
-![Data Analysis](/assets/Weather.png)
+![Data Analysis](/assets/Weather.png)  
+
+### About Me:
+- I have always been passionate about solving problems and finding the easiest ways to do so.
+- Even though I loved and excelled in mathematics and related subjects like physics and chemistry, I chose a career in medicine, believing it to be full of logic.
+- Studying medicine was not difficult for me, as I quickly learned by efficiently making connections. When I couldn't, I created methods that made sense to me.
+- During various research projects, I found joy in making predictions, performing calculations, and observing the outcomes, whether surprising or not.
+- Although I later realized that medicine was not the best fit for me, I am grateful for the lessons it taught me: to be meticulous, to act quickly in stressful situations, to work in a team, and to deal with all kinds of people with kindness and patience.
+
